@@ -1,8 +1,7 @@
 # badapple-lua
 
 ## What's this?
-An implementation of the 'Bad Apple' 
-![animation](https://www.youtube.com/watch?v=FtutLA63Cp8) for the Lua
+An implementation of the 'Bad Apple' animation for the Lua
 language, written for the FiiO M3K player running [Rockbox](https://rockbox.org).
 
 I tried out various implementations, this repo has them all:
