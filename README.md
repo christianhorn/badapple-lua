@@ -19,6 +19,9 @@ to the music.  ba\_120x-ani.lua works best for me.
 I use Fedora34 incl. rpmfusion repos on an AMD64 system as base, but 
 can be run on other distros.  
 
+A blog article with some details on this project is 
+[here](https://blog.fluxcoil.net/posts/2021/08/rockbox-badapple-m3k/).
+
 ## Compiling and media preparation
 
 ```
